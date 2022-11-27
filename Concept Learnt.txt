@@ -1,0 +1,28 @@
+1) Understanding file structure of react js
+2) Using style sheet in react & wired className
+3) Types of return in react
+4) in-line style concept
+5) Injecting component & reusing them
+6) Rendering/disply text
+7) passing property from one component to other component
+8) eventTrigered function and callBackfunction in react
+9) reactStrap
+10) reactIcons
+11) reactToastify
+12) bootstrap
+13) Array, Map, Filter and their basic functionality, looping in react
+14) Operator and conditional statements
+15) Provider
+16) Consumer
+17) Fragment
+18) random id
+19) Forms in react
+20) State, useState
+21) Context, useContext 
+22) Reducer, useReducer Actions
+23) Hooks(useState, useEffect)
+24) Life cycle of react 
+25) useEffect and its two types
+26) async, await
+27) double rendering
+28) localStorage 
