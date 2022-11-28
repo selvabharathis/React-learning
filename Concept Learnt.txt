@@ -26,3 +26,5 @@
 26) async, await
 27) double rendering
 28) localStorage 
+29) Axios
+30) Handling API in react
