@@ -1,9 +1,9 @@
-1) Understanding file structure of react js
+1) Understanding file structure of react js, SPA(Single Page Application)
 2) Using style sheet in react & wired className
 3) Types of return in react
 4) in-line style concept
 5) Injecting component & reusing them
-6) Rendering/disply text
+6) Rendering/disply text, Conditional rendering
 7) passing property from one component to other component
 8) eventTrigered function and callBackfunction in react
 9) reactStrap
@@ -28,3 +28,5 @@
 28) localStorage 
 29) Axios
 30) Handling API in react
+31) Extension - React Native Tools, Simple React Snippets(Burke Holland)
+32) React routing
