@@ -6,7 +6,7 @@
 6) Rendering/disply text, Conditional rendering
 7) passing property from one component to other component
 8) eventTrigered function and callBackfunction in react
-9) reactStrap
+9) reactStrap [container, form, formgroup, label, input, button, spinner, row, col, ListGroup, ListGroupItem, Card, CardBody, CardTitle, CardSubtitle]
 10) reactIcons
 11) reactToastify
 12) bootstrap
@@ -34,7 +34,12 @@
   useLocation, path, element, nesting, to, style, state,
 33) Math functions
 34) Empty html tag and its use
-35) Firebase Auth, FireBase hosting, FireBase Real time double
+35) Firebase Auth, FireBase hosting, FireBase Real time double, Firebase Storage
+36) using google map location query
+37) uuid, browser-image-resizer
+38) useHistory
+39) using open API's, handling secrets, Encryptions
+
 
 
 npm install -g firebase-tools
