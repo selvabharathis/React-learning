@@ -17,6 +17,7 @@ const ViewContact = () => {
   // destructuring contact from the state
   // and rendering it in state
   //FIXME: destructure contact from state
+  const { contact } = state
   return (
     <Container>
       <Row className="mt-5 mb-5">
@@ -51,6 +52,7 @@ const ViewContact = () => {
                 className="btn btn-primary btn-block"
                 target="_blank"
                 //TODO: add google maps
+                href={`https://maps.google.com/?=${contact?.address}`}
               >
                 <FaMapMarkerAlt className="icon mr-2" />
                 {contact?.address}
