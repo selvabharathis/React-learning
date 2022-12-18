@@ -29,4 +29,28 @@
 29) Axios
 30) Handling API in react
 31) Extension - React Native Tools, Simple React Snippets(Burke Holland)
-32) React routing
+32) React routing v5 below and v6+, BrowserRouter as Router,
+  Routes, Route, Navigate, Link, Outlet, useParams, NavLink, useNavigate,
+  useLocation, path, element, nesting, to, style, state,
+33) Math functions
+34) Empty html tag and its use
+35) Firebase Auth, FireBase hosting, FireBase Real time double
+
+
+npm install -g firebase-tools
+
+firebase login
+firebase projects:list
+
+firebase init hosting
+firebase init emulators
+
+npm run build
+
+firebase emulators:start
+
+firebase deploy --only hosting
+
+
+
+
